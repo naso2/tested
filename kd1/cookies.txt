@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+kd1s.com	TRUE	/	FALSE	1999999999	PHPSESSID	f7irj6t13t1cho065r4o7jdqhi
+kd1s.com	TRUE	/	FALSE	1999999999	_csrf	0322b2578fe00247de7137861f158ccc65d747f84462fede161baecd9a808a68a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZyfaBwuaFfPtfa9lfgLsDlRSCpARQroN%22%3B%7D
+
